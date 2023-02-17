@@ -1,8 +1,7 @@
 ---
+title: Technology
 feature_image: "/assets/keyboard.png"
 ---
-# Technology
-
 At Code Cog Consulting, our primary development language on the JVM is Scala, preferring the Typelevel ecosystem.
 
 We are experienced using the following Scala technology stacks:

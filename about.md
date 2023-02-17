@@ -1,8 +1,7 @@
 ---
+title: About Us
 feature_image: "/assets/keyboard.png"
 ---
-# About Us
-
 Founded in 2008, Code Cog Consulting is a boutique software development consultancy based in West London.
 
 We specialise in software development on the JVM - Scala, Kotlin and Java.
