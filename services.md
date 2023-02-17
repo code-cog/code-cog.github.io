@@ -1,7 +1,6 @@
 ---
 feature_image: "/assets/keyboard.png"
 ---
-# Services
 
 Code Cog Consulting can help your company with the following services:
 
