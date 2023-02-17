@@ -43,19 +43,21 @@ const clearOldCache = () => {
   });
 };
 
-self.addEventListener("install", event => {
-  event.waitUntil(
-    updateStaticCache().then(() => {
-      console.log(`Service Worker: cache updated to version: ${cacheName}`);
-    })
-  );
-});
+// Disable cache
+//self.addEventListener("install", event => {
+//  event.waitUntil(
+//    updateStaticCache().then(() => {
+//      console.log(`Service Worker: cache updated to version: ${cacheName}`);
+//    })
+//  );
+//});
 
-self.addEventListener("activate", event => {
-  event.waitUntil(clearOldCache());
-});
-
+//self.addEventListener("activate", event => {
+//  event.waitUntil(clearOldCache());
+//});
+/*
 self.addEventListener("fetch", event => {
+
   let request = event.request;
   let url = new URL(request.url);
 
@@ -86,3 +88,4 @@ self.addEventListener("fetch", event => {
   );
   return;
 });
+*/
