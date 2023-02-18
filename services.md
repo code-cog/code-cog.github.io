@@ -1,6 +1,6 @@
 ---
 title: Services
-feature_image: "/assets/keyboard.png"
+feature_image: "/assets/banners/unsplash-ales-nesetril-Im7lZjxeLhg.jpg"
 ---
 Code Cog Consulting can help your company with the following services:
 
