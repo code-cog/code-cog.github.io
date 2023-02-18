@@ -4,5 +4,5 @@ feature_text: |
   # Code Cog Consulting
   <br>Scala | Kotlin | Java
 
-feature_image: "/assets/keyboard.png"
+feature_image: "/assets/banners/nohat-3274752.jpg"
 ---
