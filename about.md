@@ -1,6 +1,6 @@
 ---
 title: About Us
-feature_image: "/assets/keyboard.png"
+feature_image: "/assets/banners/unsplash-andrea-de-santis-gYINUebkIDg.jpg"
 ---
 Founded in 2008, Code Cog Consulting is a boutique software development consultancy based in West London.
 
